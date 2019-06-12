@@ -1,0 +1,46 @@
+{
+    "list_title" : "Restaurants Near You",
+    "restaurants": [
+        {
+            "title" : "Pind Balluchi",
+            "open_at" : "10 a.m.",
+            "restaurant_type": "Cafe - Fast food, burger",
+            "distance" : 2.3,
+            "rating" : 2.9,
+            "image_url" : ""
+        },
+        {
+            "title" : "Pizza Hut",
+            "open_at" : "10 a.m.",
+            "restaurant_type": "Pizza - Fast Food",
+            "distance" : 1.3,
+            "rating" : 3.9,
+            "image_url" : ""
+        },
+        {
+            "title" : "Mamagoto",
+            "open_at" : "10 a.m.",
+            "restaurant_type": "Thai - Continental",
+            "distance" : 0.3,
+            "rating" : 3.9,
+            "image_url" : ""
+        },
+        {
+            "title" : "Artusi",
+            "open_at" : "10:30 a.m.",
+            "restaurant_type": "Italian - Pasta, Risotto",
+            "distance" : 1.2,
+            "rating" : 3.6,
+            "image_url" : ""
+        },
+        {
+            "title" : "Kake Da Hotel",
+            "open_at" : "7:30 a.m.",
+            "restaurant_type": "North Indian - Butter Chicken, Daal Makhni",
+            "distance" : 0.3,
+            "rating" : 4.1,
+            "image_url" : ""
+        }
+        ]
+}
+

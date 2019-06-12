@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' last-migration='0800'>
+    <pages>
+        <page name='Contents'/>
+        <page name='Constants and Variables'/>
+        <page name='Control Flow'/>
+        <page name='Optionals'/>
+        <page name='Functions'/>
+        <page name='Tuples'/>
+        <page name='Structures'/>
+        <page name='Enumerations'/>
+        <page name='Classes'/>
+        <page name='Optional Chaining'/>
+        <page name='Closures'/>
+        <page name='Type Casting'/>
+        <page name='Protocols'/>
+        <page name='Extensions'/>
+        <page name='Errors'/>
+        <page name='Generics'/>
+        <page name='Associated Types'/>
+        <page name='Metatype Type'/>
+        <page name='Access Control'/>
+        <page name='Copy'/>
+        <page name='Attributes'/>
+        <page name='Miscellaneous'/>
+        <page name='Checking API Availability'/>
+        <page name='Type Erasure'/>
+        <page name='Numbers &amp; Bool'/>
+        <page name='Able Protocols'/>
+        <page name='Operators'/>
+        <page name='Expressible By Protocols'/>
+        <page name='String Convertible Protocols'/>
+        <page name='Sequences'/>
+        <page name='Collections'/>
+        <page name='Ranges'/>
+        <page name='Strings'/>
+        <page name='Random Number Generator'/>
+        <page name='SetAlgebra'/>
+        <page name='Reflection'/>
+        <page name='Stream And Print'/>
+        <page name='Memory'/>
+        <page name='Pointers'/>
+        <page name='Codable'/>
+        <page name='Created by'/>
+    </pages>
+</playground>
